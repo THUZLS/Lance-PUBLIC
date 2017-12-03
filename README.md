@@ -1,4 +1,4 @@
-# ZLS-PUBLIC
+# Lance-PUBLIC
 Share Projects!
 The Structure of the Source Code
 Lance Zhang  C18885629
