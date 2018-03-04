@@ -1,6 +1,6 @@
 # The Structure of the Source Code      
-Lance Zhang  C18885629      
-Lisi Wang  C16321679     
+Lance Zhang   
+Lisi Wang   
 The front function Pages      
 index.php: call the file index.html to show the home page.      
 search.php: call the file search.html to show the search page.      
