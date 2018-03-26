@@ -1,7 +1,7 @@
 # The Structure of the Source Code      
 Lance Zhang   
 Lisi Wang   
-The front function Pages      
+## The front function Pages      
 index.php: call the file index.html to show the home page.      
 search.php: call the file search.html to show the search page.      
 service.php: call the file service.html to show the service page.      
@@ -10,7 +10,7 @@ about.php: call the file about.html to show the about page.
 quicksearch.php: call the file bookshow.html to show the result of quick search.      
 advancedsearch.php: call the file bookshow.html to show the result of advanced search.      
       
-The background function pages      
+## The background function pages      
 adminaccountsmanage.php: call the file adminaccountsmanage.html to show the account manage page.      
 admininformationmanage.php: call the file admininformationmanage.html to show the account information manage page.      
 adminborrowmanage.php: call the file adminborrowmanage.html to show the borrow manage page.      
@@ -18,7 +18,7 @@ admindatabasemanage.php: call the file admindatabasemanage.html to show the data
 usermanage.php: call the file usermanage.html to show the user manage home page.      
 userprofile.php: call the file userprofile.html to show the user profile manage page.      
       
-The function pages      
+## The function pages      
 adminaccountdelete.php: it is used to delete accounts.      
 administratorlogin.php: it is used to verify the administrator’s login activity.      
 adminlogout.php: it is used to verify the administrator’s logout activity.      
